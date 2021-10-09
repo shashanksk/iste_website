@@ -73,13 +73,13 @@
 
   .fourm {
     padding-top: 50px;
-    background-color: red;
+    background-color: #fe202d;
     margin-top: 0px;
     width: 100%;
   }
   .antiskew {
     position: relative;
-    left: 50px;
+    left: 100px;
     color: aliceblue;
     margin-left: 100px;
     width: 200px;
