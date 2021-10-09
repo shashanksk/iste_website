@@ -1,3 +1,6 @@
+.header {
+  box-shadow: 10px 10px 50px 50px white;
+}
 .mainbox {
   height: 800px;
   background-color: black;
@@ -23,7 +26,8 @@
 
 .antiskew {
   position: relative;
-  left: 50px;
+  top: -20px;
+  left: 80px;
   color: aliceblue;
   margin-left: 100px;
   width: 200px;
